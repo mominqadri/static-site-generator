@@ -12,7 +12,7 @@ Useful Resources:
 Understanding Sections of code:
 
 
-'''from html.parser import HTMLparser'''
+**from html.parser import HTMLparser**
 
 This module defines a class HTMLParser which serves as the basis for parsing text files formatted in HTML
 
@@ -60,7 +60,11 @@ This import receives the parse_site function from /pylib/parse_site.py which bre
 
 **from pylib.html_tags import sidebar, sidebar_links**
 
-This import receives the sidebar function from /pylib/html_tags.py that generates a sidebar given a short title and menu text
+This import receives the sidebar and side_bar link functions from /pylib/html_tags.py that generate differing sidebars given different inputs.
+
+    def process_menu(topics, level):
+    
+This function generates a menu level given topic objects and a level integer.
 
 
 
