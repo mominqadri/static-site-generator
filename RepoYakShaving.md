@@ -12,7 +12,7 @@ Useful Resources:
 Understanding Sections of code:
 
 
-**from html.parser import HTMLparser**
+'''from html.parser import HTMLparser'''
 
 This module defines a class HTMLParser which serves as the basis for parsing text files formatted in HTML
 
