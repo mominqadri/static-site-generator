@@ -14,6 +14,6 @@ Pelican/samples/pelican.conf.py
 - Shows a sample of a Pelican file which a static is site is generated from
 - Contains sections for:
   - Author, sitename, site url, timezone
-  - Guthub URL, article url, Links, social media links
+  - Github URL, article url, Links, social media links
   - Template pages and static paths
   
