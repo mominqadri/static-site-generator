@@ -45,8 +45,22 @@ super() can also take two parameters: the first is the subclass, and the second 
 super() works in single and multiple inheritance.
 
 # Utils/create_menu.py
-
 Creates a menu from a tab-delimited text file
+
+Useful Resources:
+
+- sys module: https://docs.python.org/3/library/sys.html
+
+Understanding Sections of Code:
+
+**from pylib.parse_site import parse_site, InputError**
+
+This import receives the parse_site function from /pylib/parse_site.py which breaks down an input file.
+
+
+**from pylib.html_tags import sidebar, sidebar_links**
+
+This import receives the sidebar function from /pylib/html_tags.py that generates a sidebar given a short title and menu text
 
 
 
