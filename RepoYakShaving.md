@@ -21,9 +21,12 @@ An HTMLParser instance is fed HTML data and calls handler methods when start tag
 
 **from html_content_spec import content_spec, _ANY_CONTENT, _NO_CONTENT**
 
-Not sure what this does
+This import receives the content_spec dictionary from html_content_spec.py which maps the tags to categories and content models.
 
-imports from html_content_spec.py
+
+**import argparse**
+
+argpars essentially reads command-line arguments and can put them in your program. It is a command-line parsing module.
 
 
 **Class OurHTMLParser**    
