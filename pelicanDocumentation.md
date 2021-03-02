@@ -1,4 +1,4 @@
-Notes on the different files in Pelican
+# Notes on the different files in Pelican
 
 Features on Pelican:
 - Contains static pages and chronological content
