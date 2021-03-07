@@ -9,7 +9,6 @@ Features on Pelican:
 - Can import existing cintent from services such as WordPress, Dotclear etc.
 - Has fast rebuilding time using content caching and selective output writing
 
-
 Pelican/samples/pelican.conf.py
 - Shows a sample of a Pelican file which a static is site is generated from
 - Contains sections for:
